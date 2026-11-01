@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="t d">
+  <title id="t">Procedures, public: Octagon Religious Research Group</title>
+  <desc id="d">ORG's family banner: an emerald octagon draws itself and its eight corners arrive one by one, over a rail of ORG's four shades. With reduced motion, the finished picture shows at once.</desc>
+  <style>
+    /* Motion only for readers who have not asked for less; nothing is hidden outside this block. */
+    @media (prefers-reduced-motion: no-preference) {
+      .road { stroke-dasharray: 100; animation: draw 3.2s cubic-bezier(.4,0,.2,1) .3s both; }
+      .stop { animation: arrive .45s ease-out both; }
+      .s1 { animation-delay: .35s } .s2 { animation-delay: .75s } .s3 { animation-delay: 1.15s } .s4 { animation-delay: 1.55s }
+      .s5 { animation-delay: 1.95s } .s6 { animation-delay: 2.35s } .s7 { animation-delay: 2.75s } .s8 { animation-delay: 3.25s }
+      .halo { transform-box: fill-box; transform-origin: center; animation: halo 3.2s ease-out 3.8s infinite; }
+    }
+    @keyframes draw { from { stroke-dashoffset: 100 } to { stroke-dashoffset: 0 } }
+    @keyframes arrive { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes halo { 0% { opacity: .55; transform: scale(1) } 70%, 100% { opacity: 0; transform: scale(2.1) } }
+    .halo { opacity: 0 }
+  </style>
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f2a22"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="emerald" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#047857"/>
+      <stop offset=".55" stop-color="#059669"/>
+      <stop offset="1" stop-color="#a7f3d0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="260" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <!-- opaque ground: the banner carries its own background, so it reads the same in light and dark GitHub themes -->
+    <rect width="1200" height="260" fill="url(#ground)"/>
+    <g stroke="#1f3a30" stroke-width="1" opacity=".7">
+      <path d="M860 24V236M920 24V236M980 24V236M1040 24V236M1100 24V236M1160 24V236"/>
+      <path d="M840 50H1176M840 100H1176M840 150H1176M840 200H1176"/>
+    </g>
+    <!-- ORG's four shades: deep, mid, primary, tint -->
+    <g transform="translate(0 238)">
+      <rect width="300" height="22" fill="#064e3b"/><rect x="300" width="300" height="22" fill="#047857"/>
+      <rect x="600" width="300" height="22" fill="#059669"/><rect x="900" width="300" height="22" fill="#d1fae5"/>
+      <rect width="1200" height="22" fill="#0f172a" opacity=".3"/><rect width="1200" height="2" fill="#0f172a"/>
+    </g>
+    <path d="M1010 118L980.2 45.9 M1010 118L1039.8 45.9 M1010 118L1082.1 88.2 M1010 118L1082.1 147.8 M1010 118L1039.8 190.1 M1010 118L980.2 190.1 M1010 118L937.9 147.8 M1010 118L937.9 88.2" stroke="#1f5a45" stroke-width="1.5"/>
+    <polyline class="road" pathLength="100" points="980.2,45.9 1039.8,45.9 1082.1,88.2 1082.1,147.8 1039.8,190.1 980.2,190.1 937.9,147.8 937.9,88.2 980.2,45.9" fill="none" stroke="url(#emerald)" stroke-width="3" stroke-linejoin="round"/>
+    <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+      <circle class="halo" cx="937.9" cy="88.2" r="16" fill="none" stroke="#a7f3d0" stroke-width="2"/>
+      <g class="stop s1"><circle cx="980.2" cy="45.9" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="980.2" y="50.4" fill="#a7f3d0">1</text></g>
+      <g class="stop s2"><circle cx="1039.8" cy="45.9" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="1039.8" y="50.4" fill="#a7f3d0">2</text></g>
+      <g class="stop s3"><circle cx="1082.1" cy="88.2" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="1082.1" y="92.7" fill="#a7f3d0">3</text></g>
+      <g class="stop s4"><circle cx="1082.1" cy="147.8" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="1082.1" y="152.3" fill="#a7f3d0">4</text></g>
+      <g class="stop s5"><circle cx="1039.8" cy="190.1" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="1039.8" y="194.6" fill="#a7f3d0">5</text></g>
+      <g class="stop s6"><circle cx="980.2" cy="190.1" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="980.2" y="194.6" fill="#a7f3d0">6</text></g>
+      <g class="stop s7"><circle cx="937.9" cy="147.8" r="12" fill="#0f172a" stroke="#34d399" stroke-width="2.5"/><text x="937.9" y="152.3" fill="#a7f3d0">7</text></g>
+      <g class="stop s8"><circle cx="937.9" cy="88.2" r="14" fill="#34d399" stroke="#34d399" stroke-width="2.5"/><text x="937.9" y="92.7" fill="#0f172a">8</text></g>
+    </g>
+    <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif">
+      <text x="64" y="68" font-size="14" font-weight="700" letter-spacing="3.5" fill="#34d399">OCTAGON RELIGIOUS RESEARCH GROUP · ORG</text>
+      <text x="61" y="134" font-size="64" font-weight="700" fill="#f8fafc" letter-spacing="-1">Procedures, public</text>
+      <rect x="64" y="152" width="96" height="4" rx="2" fill="#059669"/>
+      <text x="64" y="188" font-size="22" fill="#a7f3d0">The procedures ORG shares with everyone.</text>
+      <text x="64" y="216" font-size="15" fill="#94a3b8" letter-spacing=".4">copied from the members' copy after a check that reads every file</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="258.5" rx="17.25" fill="none" stroke="#1f5a45" stroke-width="1.5"/>
+</svg>
