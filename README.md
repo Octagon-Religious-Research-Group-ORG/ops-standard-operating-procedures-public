@@ -20,7 +20,7 @@ This public repository receives only the ones its officers choose to share.
 
 ## What is here today
 
-**Nothing yet.** On 2026-11-01 the nine universal procedures were proposed for the allowlist
+**Nothing yet.** On 2026-11-01 the eight universal procedures were proposed for the allowlist
 ([pull request #1](https://github.com/Octagon-Religious-Research-Group-ORG/ops-standard-operating-procedures/pull/1), members only):
 SOP-COM-001 *New to GitHub: your first hour*, SOP-OPS-001/002/003, SOP-IT-001/002/003 and SOP-GOV-002, each as
 markdown with its PDF beside it, and the icons they draw. They arrive after an officer's yes and the first sync, and stay
