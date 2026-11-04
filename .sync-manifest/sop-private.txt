@@ -1,0 +1,17 @@
+COM/SOP-COM-001-new-to-github-your-first-hour.md
+pdf/COM/SOP-COM-001-new-to-github-your-first-hour.pdf
+OPS/SOP-OPS-001-how-a-change-travels.md
+pdf/OPS/SOP-OPS-001-how-a-change-travels.pdf
+OPS/SOP-OPS-002-pull-requests-and-promotes.md
+pdf/OPS/SOP-OPS-002-pull-requests-and-promotes.pdf
+OPS/SOP-OPS-003-private-houses-everything-public-lanes-witness.md
+pdf/OPS/SOP-OPS-003-private-houses-everything-public-lanes-witness.pdf
+IT/SOP-IT-001-vpn-dns-resolver-stalls.md
+pdf/IT/SOP-IT-001-vpn-dns-resolver-stalls.pdf
+IT/SOP-IT-002-reading-room-and-helper-access.md
+pdf/IT/SOP-IT-002-reading-room-and-helper-access.pdf
+IT/SOP-IT-003-observer-dashboards-local-by-default.md
+pdf/IT/SOP-IT-003-observer-dashboards-local-by-default.pdf
+GOV/SOP-GOV-002-github-collaboration.md
+pdf/GOV/SOP-GOV-002-github-collaboration.pdf
+assets/icons
