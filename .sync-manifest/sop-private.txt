@@ -1,5 +1,7 @@
 COM/SOP-COM-001-new-to-github-your-first-hour.md
 pdf/COM/SOP-COM-001-new-to-github-your-first-hour.pdf
+COM/SOP-COM-002-apple-account-recovery.md
+pdf/COM/SOP-COM-002-apple-account-recovery.pdf
 OPS/SOP-OPS-001-how-a-change-travels.md
 pdf/OPS/SOP-OPS-001-how-a-change-travels.pdf
 OPS/SOP-OPS-002-pull-requests-and-promotes.md
@@ -12,6 +14,8 @@ IT/SOP-IT-002-reading-room-and-helper-access.md
 pdf/IT/SOP-IT-002-reading-room-and-helper-access.pdf
 IT/SOP-IT-003-observer-dashboards-local-by-default.md
 pdf/IT/SOP-IT-003-observer-dashboards-local-by-default.pdf
+IT/SOP-IT-004-tripwires-firewalls-and-shields.md
+pdf/IT/SOP-IT-004-tripwires-firewalls-and-shields.pdf
 GOV/SOP-GOV-002-github-collaboration.md
 pdf/GOV/SOP-GOV-002-github-collaboration.pdf
 assets/icons
