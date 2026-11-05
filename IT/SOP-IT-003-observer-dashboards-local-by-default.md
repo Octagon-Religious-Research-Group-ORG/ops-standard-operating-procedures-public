@@ -72,3 +72,5 @@ The exposure was first spelled out by Claude Code's built-in **You should know**
 | 2026-10-31 | The "You should know" reader recorded from its own heads-up (Christopher's screenshot): how to tell it runs, no tools, what it costs, its three answers | Alfred |
 | 2026-11-01 | Lucid pass: Lucide icons, the three ways to reach a dashboard in Mermaid; the reader's next heads-up (base permission) is recorded in SOP-GOV-002 | Alfred |
 | 2026-11-01 | ORG's copy brought level with my-template: Lucide icons in emerald, Mermaid where a picture explains, ORG's own facts kept; the lab's own dashboard example now lives in the lab's copy, this one is the generic procedure | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->

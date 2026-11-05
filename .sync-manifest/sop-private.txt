@@ -16,6 +16,16 @@ IT/SOP-IT-003-observer-dashboards-local-by-default.md
 pdf/IT/SOP-IT-003-observer-dashboards-local-by-default.pdf
 IT/SOP-IT-004-tripwires-firewalls-and-shields.md
 pdf/IT/SOP-IT-004-tripwires-firewalls-and-shields.pdf
+IT/SOP-IT-005-dependabot-by-the-fleet.md
+pdf/IT/SOP-IT-005-dependabot-by-the-fleet.pdf
+IT/SOP-IT-006-renaming-a-local-folder.md
+pdf/IT/SOP-IT-006-renaming-a-local-folder.pdf
+IT/SOP-IT-007-the-machines-three-guards.md
+pdf/IT/SOP-IT-007-the-machines-three-guards.pdf
+IT/SOP-IT-008-disk-utility-and-sparse-images.md
+pdf/IT/SOP-IT-008-disk-utility-and-sparse-images.pdf
+IT/SOP-IT-009-cold-storage-data-and-wallets.md
+pdf/IT/SOP-IT-009-cold-storage-data-and-wallets.pdf
 GOV/SOP-GOV-002-github-collaboration.md
 pdf/GOV/SOP-GOV-002-github-collaboration.pdf
 assets/icons

@@ -67,3 +67,5 @@ Steps 2 and 3 of the check answer alike; the observer's log shows a new tick; th
 | 2026-10-30 | Drafted from the Oct 29–30 outage | Alfred |
 | 2026-11-01 | ORG's copy brought level with my-template: Lucide icons in emerald, Mermaid where a picture explains, ORG's own facts kept; the Oct 29–30 findings kept, written so the page can travel | Alfred |
 | 2026-11-01 | The resolver check made generic for the public copy: a placeholder for the failing hostname, no VPN product or uplink named, the tunnel found with `ifconfig`; the dated findings give the resolver's address range, not the steward's own tunnel; same steps, same fix | Alfred |
+
+*Part of the fleet's procedures. The master copies and the legend live in [my-template](https://github.com/drasticstatic/my-template/tree/main/sop-template).* <!-- fleet-pointer -->
