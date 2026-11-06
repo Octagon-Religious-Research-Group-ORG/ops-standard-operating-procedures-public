@@ -25,7 +25,9 @@ pdf/IT/SOP-IT-007-the-machines-three-guards.pdf
 IT/SOP-IT-008-disk-utility-and-sparse-images.md
 pdf/IT/SOP-IT-008-disk-utility-and-sparse-images.pdf
 IT/SOP-IT-009-cold-storage-data-and-wallets.md
+IT/SOP-IT-010-how-we-keep-our-data.md
 pdf/IT/SOP-IT-009-cold-storage-data-and-wallets.pdf
+pdf/IT/SOP-IT-010-how-we-keep-our-data.pdf
 GOV/SOP-GOV-002-github-collaboration.md
 pdf/GOV/SOP-GOV-002-github-collaboration.pdf
 assets/icons
